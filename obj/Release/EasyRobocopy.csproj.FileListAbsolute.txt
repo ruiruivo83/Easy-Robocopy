@@ -1,0 +1,10 @@
+C:\Users\spiecn1\source\repos\EasyRobocopy\bin\Release\EasyRobocopy.exe.config
+C:\Users\spiecn1\source\repos\EasyRobocopy\bin\Release\EasyRobocopy.exe
+C:\Users\spiecn1\source\repos\EasyRobocopy\bin\Release\EasyRobocopy.pdb
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Release\EasyRobocopy.csprojResolveAssemblyReference.cache
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Release\EasyRobocopy.Properties.Resources.resources
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Release\EasyRobocopy.csproj.GenerateResource.Cache
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Release\EasyRobocopy.csproj.CoreCompileInputs.cache
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Release\EasyRobocopy.exe
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Release\EasyRobocopy.pdb
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Release\EasyRobocopy.frmMain.resources

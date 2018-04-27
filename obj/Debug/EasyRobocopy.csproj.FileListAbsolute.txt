@@ -1,0 +1,40 @@
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Debug\EasyRobocopy.csprojResolveAssemblyReference.cache
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Debug\EasyRobocopy.Properties.Resources.resources
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Debug\EasyRobocopy.csproj.GenerateResource.Cache
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Debug\EasyRobocopy.csproj.CoreCompileInputs.cache
+C:\Users\spiecn1\source\repos\EasyRobocopy\bin\Debug\EasyRobocopy.exe.config
+C:\Users\spiecn1\source\repos\EasyRobocopy\bin\Debug\EasyRobocopy.exe
+C:\Users\spiecn1\source\repos\EasyRobocopy\bin\Debug\EasyRobocopy.pdb
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Debug\EasyRobocopy.exe
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Debug\EasyRobocopy.pdb
+C:\Users\spiecn1\source\repos\EasyRobocopy\obj\Debug\EasyRobocopy.frmMain.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- OK - EasyRobocopy\bin\Debug\EasyRobocopy.exe.config
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- OK - EasyRobocopy\bin\Debug\EasyRobocopy.exe
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- OK - EasyRobocopy\bin\Debug\EasyRobocopy.pdb
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.csprojResolveAssemblyReference.cache
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.frmMain.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.Properties.Resources.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.csproj.GenerateResource.Cache
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.csproj.CoreCompileInputs.cache
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.exe
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.pdb
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\bin\Debug\EasyRobocopy.exe.config
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\bin\Debug\EasyRobocopy.exe
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\bin\Debug\EasyRobocopy.pdb
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.csprojResolveAssemblyReference.cache
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.frmMain.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.Properties.Resources.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.csproj.GenerateResource.cache
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.csproj.CoreCompileInputs.cache
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.exe
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.pdb
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\bin\Debug\EasyRobocopy.exe.config
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\bin\Debug\EasyRobocopy.exe
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\bin\Debug\EasyRobocopy.pdb
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.csprojResolveAssemblyReference.cache
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.frmMain.resources
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.Properties.Resources.resources
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.csproj.GenerateResource.cache
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.csproj.CoreCompileInputs.cache
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.exe
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.C#\- PROJECTS\- OK - EasyRobocopy\obj\Debug\EasyRobocopy.pdb
